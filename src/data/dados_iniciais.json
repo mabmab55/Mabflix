@@ -1,185 +1,228 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Murilo Couto",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#191970 ",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Canal",
+        "url": "https://www.youtube.com/channel/UCDG56nDKCg302lY6Lr_GOWg"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Murilo Couto - Fazendo Suas Graça (Show Completo)",
+          "url": "https://www.youtube.com/watch?v=FTZipdQWlv0"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "MURILO COUTO - TOMEI UMA BALA NA RAVE",
+          "url": "https://www.youtube.com/watch?v=2ENbw6gN8AE"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "MURILO COUTO - NINGUÉM SE IMPORTA COM OLIMPÍADAS DE INVERNO",
+          "url": "https://www.youtube.com/watch?v=4lYO6eA9Rm0"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "MURILO COUTO - UFC e o Medo de tomar porrada",
+          "url": "https://www.youtube.com/watch?v=7bEWjvx40BU"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "MURILO COUTO - SER UM BOSTA",
+          "url": "https://www.youtube.com/watch?v=6ivcV-93ECA"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "MURILO COUTO - NINGUÉM ME DA INGRESSO PRO LOLLAPALOOZA (Testando no Naitan)",
+          "url": "https://www.youtube.com/watch?v=A_3oFOP-ycM"
+        }     
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Nil Agra",
+      "cor": "#0000CD",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Canal",
+        "url": "https://www.youtube.com/channel/UCXSf9EM6sPQmOOlyh_7kMxQ"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "REVEILLON DOS HUMORISTAS - NIL AGRA - STAND UP COMEDY",
+          "url": "https://www.youtube.com/watch?v=VtNrYCzvgCU"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "A MINHA MAIOR FRUSTRAÇÃO - NIL AGRA - STAND UP COMEDY",
+          "url": "https://www.youtube.com/watch?v=KOXcJz1RdrI"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "FEIOS X LINDOS - NIL AGRA - STAND UP COMEDY",
+          "url": "https://www.youtube.com/watch?v=oJlo9V3Q8VA"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "CIGARRO - STAND UP COMEDY - NIL AGRA",
+          "url": "https://www.youtube.com/watch?v=ihwBgO2Rw8A"
+        },
+        {
+          "titulo": "ACADEMIA - STAND UP COMEDY - NIL AGRA",
+          "url": "https://www.youtube.com/watch?v=AOhuXaSnU1Q"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "CRIANÇAS DE HOJE - NIL AGRA - STAND UP COMEDY",
+          "url": "https://www.youtube.com/watch?v=jNL1ZvY_9ZY"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Andre Santi",
+      "cor": "#1E90FF",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Canal",
+        "url": "https://www.youtube.com/channel/UCICccZvheLEWJPFeD-fBaWA"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "ZOEI O CARA ERRADO - André Santi - Stand Up Comedy",
+          "url": "https://www.youtube.com/watch?v=j7oMCxuzhsU"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "O DIA QU EU FIZ SHOW NUMA CASA DE SWING - Stand Up Comedy - André Santi",
+          "url": "https://www.youtube.com/watch?v=S4xBJsAhrrw"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Restaurante Japonês - Stand Up Comedy - André Santi",
+          "url": "https://www.youtube.com/watch?v=5IS8tbyTaW0"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "AS VELHAS DO MERCADO - Stand Up Comedy - André Santi",
+          "url": "https://www.youtube.com/watch?v=vAvLrApD2lA"
+        },
+        {
+          "titulo": "ELA PEGOU O PEDREIRO NOVINHO - André Santi - Stand Up Comedy",
+          "url": "https://www.youtube.com/watch?v=SwpA_2Kl2zw"
+        },
+        {
+          "titulo": "A CAROLINA TERMINOU - IMPROVISO COM A PLATEIA - Stand Up Comedy - André Santi",
+          "url": "https://www.youtube.com/watch?v=CG-9J-vrCeA"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Afonso Padilha",
+      "cor": "#00BFFF",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Canal",
+        "url": "https://www.youtube.com/channel/UCCqoc2as2nMEXoZPlwXei4g"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "AFONSO PADILHA - TENTANDO SER UMA PESSOA MELHOR",
+          "url": "https://www.youtube.com/watch?v=XMRAlOrmjNI"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "AFONSO PADILHA - A PIOR PARTE DE SER POBRE",
+          "url": "https://www.youtube.com/watch?v=DO5sJ-LLxcE"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "AFONSO PADILHA - TEORIA DA CONSPIRAÇÃO",
+          "url": "https://www.youtube.com/watch?v=-Z4wCJRGAuk"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "AFONSO PADILHA - O ÔNIBUS, A CRIANÇA E A CURIOSIDADE",
+          "url": "https://www.youtube.com/watch?v=5uu7cim9sqU"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "AFONSO PADILHA - O DIA QUE UMA TERCEIRA MINA TENTOU ME DROGAR",
+          "url": "https://www.youtube.com/watch?v=IYuMprSpUkc"
+        },
+        {
+          "titulo": "AFONSO PADILHA - JAPONÊS É TUDO DOIDO",
+          "url": "https://www.youtube.com/watch?v=YTNcAQtnnjk"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "titulo": "Rodrigo Marques",
+      "cor": "#4682B4",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Canal",
+        "url": "https://www.youtube.com/channel/UCeXvZXwnFgf0_oJfOaSZGkA"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "Rodrigo Marques - A Melhor História Que Eu Já Ouvi #tbt #quarentena - Stand Up Comedy",
+          "url": "https://www.youtube.com/watch?v=Bz6XBFfZ5aY"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Rodrigo Marques - Vou Parar de Beber - Stand Up Comedy",
+          "url": "https://www.youtube.com/watch?v=jRoizI_jSV0"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Rodrigo Marques - Não Sei Dizer Não - Stand Up Comedy",
+          "url": "https://www.youtube.com/watch?v=05MyODIn-7s"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Rodrigo Marques - Eu Não Assisto Game of Thrones - Stand Up Comedy",
+          "url": "https://www.youtube.com/watch?v=dHK3Lmbd6xw"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "RODRIGO MARQUES - MINHA PRIMEIRA BRIGA - STAND UP COMEDY",
+          "url": "https://www.youtube.com/watch?v=sNAWcRwQZ-A"
+        },
+        {
+          "titulo": "RODRIGO MARQUES - COLÍRIO - STAND UP COMEDY",
+          "url": "https://www.youtube.com/watch?v=3MMJ9XSRS3Q"
+        }
+      ]
+    },
+    {
+      "titulo": "Renato Albani",
+      "cor": "#87CEFA",
+      "link_extra": {
+        "text": "Canal",
+        "url": "https://www.youtube.com/user/renatoalbani"
+      },
+      "videos": [
+        {
+          "titulo": "Renato Albani- Tá Difícil Ser Engenheiro",
+          "url": "https://www.youtube.com/watch?v=vXBq2wHg848"
+        },
+        {
+          "titulo": "Renato Albani - Rodrigo Hilbert (O melhor homem do mundo)",
+          "url": "https://www.youtube.com/watch?v=pELkYGBr_Sc"
+        },
+        {
+          "titulo": "Renato Albani - Meu pai já teve um DeL Rey",
+          "url": "https://www.youtube.com/watch?v=qiw2Vnf5yoQ"
+        },
+        {
+          "titulo": "Renato Albani - Quando eu conheci Recife",
+          "url": "https://www.youtube.com/watch?v=iMOREVnIoRY"
+        },
+        {
+          "titulo": "Renato Albani - Gel De Massagem",
+          "url": "https://www.youtube.com/watch?v=_iLfrwowv6Y"
+        },
+        {
+          "titulo": "Renato Albani - Visto Reprovado",
+          "url": "https://www.youtube.com/watch?v=A82vm3DVXiQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Bônus",
+      "cor": "#C71585",
+      "link_extra": {
+        "text": "Playlist de LO-FI BR",
+        "url": "https://www.youtube.com/channel/UCyIoYIA9YGnVtJQu5fk8wmg"
+      },
+      "videos": [
+        {
+          "titulo": "lofi hip hop - brazil songs playlist",
+          "url": "https://www.youtube.com/watch?v=ZhstyJSNKME&"
+        },
+        {
+          "titulo": "VOL 2 | lofi hip hop - brazil songs playlist",
+          "url": "https://www.youtube.com/watch?v=NBHJSuau8PQ&"
         }
       ]
     }
+    
   ]
 }
