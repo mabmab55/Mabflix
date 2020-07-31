@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Olá meus amigos, é com muito prazer que apresento pra vocês meu segundo especial de Stand Up, Fazendo Suas Graça. Pra acabar com essa palhaçada que Stand up é humor inteligente."}
       />
 
       <Carousel
