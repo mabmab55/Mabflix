@@ -52,4 +52,11 @@ export const VideoCardGroupContainer = styled.section`
   min-height: 197px;
   margin-left: 5%;
   margin-bottom: 16px;
+
+  .slick-prev:before, .slick-next:before {
+    color: ${({ categoryColor }) => `${categoryColor}`};
+    font-size: 35px;
+}
 `;
+
+

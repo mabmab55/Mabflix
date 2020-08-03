@@ -2,7 +2,6 @@ import styled from "styled-components";
 
 const Button = styled.a`
 color: var(--white);
-border: 1px solid var(--white);
 box-sizing: border-box;
 cursor: pointer;
 padding: 16px 24px;
@@ -14,7 +13,7 @@ border-radius: 5px;
 text-decoration: none;
 display: inline-block;
 transition: opacity .3s;
-
+background-color: navy;
 
 &:hover,
 &:focus {

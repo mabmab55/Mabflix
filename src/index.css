@@ -1,6 +1,9 @@
 * {
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
+  scrollbar-color: navy;
+  scrollbar-base-color: navy;
+  scrollbar-highlight-color: navy;
 }
 
 :root {
@@ -23,3 +26,17 @@ body {
 a {
   color: inherit;
 } 
+
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
+}
+
+::-webkit-scrollbar {
+  background: black;
+}
+
+::-webkit-scrollbar-thumb {
+  background: grey;
+}
