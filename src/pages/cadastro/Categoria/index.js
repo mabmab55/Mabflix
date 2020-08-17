@@ -2,7 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../components/PageDefault/index.js';
 import FormField from '../../../components/FormField/index.js';
-import Button from '../../../components/Button/index.js'
+import Button from '../../../components/Button/index.js';
+import useForm from '../../../hooks/useForm.js';
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -11,26 +12,11 @@ function CadastroCategoria() {
     cor: '#000000',
   }
   const [categorias, setCategorias] = useState([]);
-  const [values, setValues] = useState(valoresIniciais);
+  const { handleChange, values, clearForm } = useForm(valoresIniciais);
 
 
-  function setValue(chave, valor) {
-    //chave : nome, descricao, cor
-    setValues({
-      ...values,
-      [chave]: valor, // se o valor for nome vai virar nome: 'valor'
-    })
-  }
-
-  function handleChange(infosDoEvento) {
-    setValue(
-      infosDoEvento.target.getAttribute('name'),
-      infosDoEvento.target.value
-    );
-  }
 
   useEffect(() => {
-    console.log('alalalal');
     const URL_TOP = window.location.hostname.includes('localhost') 
     ? 'http://localhost:8080/categorias'
     : 'https://mabflix.herokuapp.com/categorias';
@@ -40,7 +26,7 @@ function CadastroCategoria() {
         setCategorias([
           ...resposta,
         ]);
-      })
+      });
   }, []);
 
   return (
@@ -54,12 +40,12 @@ function CadastroCategoria() {
           values
         ]);
 
-        setValues(valoresIniciais)
-      }}>
+        clearForm();
+      }}
+      >
 
         <FormField
           label="Nome da Categoria"
-          type="text"
           name="nome"
           value={values.nome}
           onChange={handleChange}
@@ -93,22 +79,18 @@ function CadastroCategoria() {
       )}
 
       <ul>
-        {categorias.map((categoria) => {
-          return (
-            <li key={`${categoria.nome}`}>
-              {categoria.nome}
-            </li>
-          )
-        })}
+        {categorias.map((categoria) => (
+          <li key={`${categoria.titulo}`}>
+            {categoria.titulo}
+          </li>
+        ))}
       </ul>
 
-      <Button>
-        <Link to="/">
-          Ir para home
-        </Link>
-      </Button>
+      <Link to="/">
+        Ir para home
+      </Link>
     </PageDefault>
-  )
+  );
 }
 
 export default CadastroCategoria;

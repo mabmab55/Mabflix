@@ -2,15 +2,314 @@
   "categorias": [
     {
       "id": 1,
-      "nome": "Front End",
-      "descricao": "Uma categoria",
-      "cor": "#cbdd1ff"
+      "titulo": "Murilo Couto",
+      "cor": "#191970 ",
+      "link_extra": {
+        "text": "Canal",
+        "url": "https://www.youtube.com/channel/UCDG56nDKCg302lY6Lr_GOWg"
+      }
     },
     {
       "id": 2,
-      "nome": "Back End",
-      "descricao": "Outra categoria",
-      "cor": "#cbdd1ff"
+      "titulo": "Nil Agra",
+      "cor": "#0000CD",
+      "link_extra": {
+        "text": "Canal",
+        "url": "https://www.youtube.com/channel/UCXSf9EM6sPQmOOlyh_7kMxQ"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Andre Santi",
+      "cor": "#1E90FF",
+      "link_extra": {
+        "text": "Canal",
+        "url": "https://www.youtube.com/channel/UCICccZvheLEWJPFeD-fBaWA"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Afonso Padilha",
+      "cor": "#00BFFF",
+      "link_extra": {
+        "text": "Canal",
+        "url": "https://www.youtube.com/channel/UCCqoc2as2nMEXoZPlwXei4g"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Rodrigo Marques",
+      "cor": "#4682B4",
+      "link_extra": {
+        "text": "Canal",
+        "url": "https://www.youtube.com/channel/UCeXvZXwnFgf0_oJfOaSZGkA"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Renato Albani",
+      "cor": "#87CEFA",
+      "link_extra": {
+        "text": "Canal",
+        "url": "https://www.youtube.com/user/renatoalbani"
+      }
+    },
+    {
+      "id": 7,
+      "titulo": "Bônus",
+      "cor": "#C71585",
+      "link_extra": {
+        "text": "Playlist de LO-FI BR",
+        "url": "https://www.youtube.com/channel/UCyIoYIA9YGnVtJQu5fk8wmg"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Murilo Couto - Fazendo Suas Graça (Show Completo)",
+      "url": "https://www.youtube.com/watch?v=FTZipdQWlv0"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "MURILO COUTO - TOMEI UMA BALA NA RAVE",
+      "url": "https://www.youtube.com/watch?v=2ENbw6gN8AE"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "MURILO COUTO - NINGUÉM SE IMPORTA COM OLIMPÍADAS DE INVERNO",
+      "url": "https://www.youtube.com/watch?v=4lYO6eA9Rm0"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "MURILO COUTO - UFC e o Medo de tomar porrada",
+      "url": "https://www.youtube.com/watch?v=7bEWjvx40BU"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "MURILO COUTO - SER UM BOSTA",
+      "url": "https://www.youtube.com/watch?v=6ivcV-93ECA"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "MURILO COUTO - NINGUÉM ME DA INGRESSO PRO LOLLAPALOOZA (Testando no Naitan)",
+      "url": "https://www.youtube.com/watch?v=A_3oFOP-ycM"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "REVEILLON DOS HUMORISTAS - NIL AGRA - STAND UP COMEDY",
+      "url": "https://www.youtube.com/watch?v=VtNrYCzvgCU"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "A MINHA MAIOR FRUSTRAÇÃO - NIL AGRA - STAND UP COMEDY",
+      "url": "https://www.youtube.com/watch?v=KOXcJz1RdrI"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "FEIOS X LINDOS - NIL AGRA - STAND UP COMEDY",
+      "url": "https://www.youtube.com/watch?v=oJlo9V3Q8VA"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "CIGARRO - STAND UP COMEDY - NIL AGRA",
+      "url": "https://www.youtube.com/watch?v=ihwBgO2Rw8A"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "ACADEMIA - STAND UP COMEDY - NIL AGRA",
+      "url": "https://www.youtube.com/watch?v=AOhuXaSnU1Q"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "CRIANÇAS DE HOJE - NIL AGRA - STAND UP COMEDY",
+      "url": "https://www.youtube.com/watch?v=jNL1ZvY_9ZY"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "ZOEI O CARA ERRADO - André Santi - Stand Up Comedy",
+      "url": "https://www.youtube.com/watch?v=j7oMCxuzhsU"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "O DIA QU EU FIZ SHOW NUMA CASA DE SWING - Stand Up Comedy - André Santi",
+      "url": "https://www.youtube.com/watch?v=S4xBJsAhrrw"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Restaurante Japonês - Stand Up Comedy - André Santi",
+      "url": "https://www.youtube.com/watch?v=5IS8tbyTaW0"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "AS VELHAS DO MERCADO - Stand Up Comedy - André Santi",
+      "url": "https://www.youtube.com/watch?v=vAvLrApD2lA"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "ELA PEGOU O PEDREIRO NOVINHO - André Santi - Stand Up Comedy",
+      "url": "https://www.youtube.com/watch?v=SwpA_2Kl2zw"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "A CAROLINA TERMINOU - IMPROVISO COM A PLATEIA - Stand Up Comedy - André Santi",
+      "url": "https://www.youtube.com/watch?v=CG-9J-vrCeA"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "AFONSO PADILHA - TENTANDO SER UMA PESSOA MELHOR",
+      "url": "https://www.youtube.com/watch?v=XMRAlOrmjNI"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "AFONSO PADILHA - A PIOR PARTE DE SER POBRE",
+      "url": "https://www.youtube.com/watch?v=DO5sJ-LLxcE"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "AFONSO PADILHA - TEORIA DA CONSPIRAÇÃO",
+      "url": "https://www.youtube.com/watch?v=-Z4wCJRGAuk"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "AFONSO PADILHA - O ÔNIBUS, A CRIANÇA E A CURIOSIDADE",
+      "url": "https://www.youtube.com/watch?v=5uu7cim9sqU"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "AFONSO PADILHA - O DIA QUE UMA TERCEIRA MINA TENTOU ME DROGAR",
+      "url": "https://www.youtube.com/watch?v=IYuMprSpUkc"
+    },
+    {
+      "id": 24,
+      "categoriaId": 4,
+      "titulo": "AFONSO PADILHA - JAPONÊS É TUDO DOIDO",
+      "url": "https://www.youtube.com/watch?v=YTNcAQtnnjk"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "Rodrigo Marques - A Melhor História Que Eu Já Ouvi #tbt #quarentena - Stand Up Comedy",
+      "url": "https://www.youtube.com/watch?v=Bz6XBFfZ5aY"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "Rodrigo Marques - Vou Parar de Beber - Stand Up Comedy",
+      "url": "https://www.youtube.com/watch?v=jRoizI_jSV0"
+    },
+    {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "Rodrigo Marques - Não Sei Dizer Não - Stand Up Comedy",
+      "url": "https://www.youtube.com/watch?v=05MyODIn-7s"
+    },
+    {
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "Rodrigo Marques - Eu Não Assisto Game of Thrones - Stand Up Comedy",
+      "url": "https://www.youtube.com/watch?v=dHK3Lmbd6xw"
+    },
+    {
+      "id": 29,
+      "categoriaId": 5,
+      "titulo": "RODRIGO MARQUES - MINHA PRIMEIRA BRIGA - STAND UP COMEDY",
+      "url": "https://www.youtube.com/watch?v=sNAWcRwQZ-A"
+    },
+    {
+      "id": 30,
+      "categoriaId": 5,
+      "titulo": "RODRIGO MARQUES - COLÍRIO - STAND UP COMEDY",
+      "url": "https://www.youtube.com/watch?v=3MMJ9XSRS3Q"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "titulo": "Renato Albani- Tá Difícil Ser Engenheiro",
+      "url": "https://www.youtube.com/watch?v=vXBq2wHg848"
+    },
+    {
+      "id": 32,
+      "categoriaId": 6,
+      "titulo": "Renato Albani - Rodrigo Hilbert (O melhor homem do mundo)",
+      "url": "https://www.youtube.com/watch?v=pELkYGBr_Sc"
+    },
+    {
+      "id": 33,
+      "categoriaId": 6,
+      "titulo": "Renato Albani - Meu pai já teve um DeL Rey",
+      "url": "https://www.youtube.com/watch?v=qiw2Vnf5yoQ"
+    },
+    {
+      "id": 34,
+      "categoriaId": 6,
+      "titulo": "Renato Albani - Quando eu conheci Recife",
+      "url": "https://www.youtube.com/watch?v=iMOREVnIoRY"
+    },
+    {
+      "id": 35,
+      "categoriaId": 6,
+      "titulo": "Renato Albani - Gel De Massagem",
+      "url": "https://www.youtube.com/watch?v=_iLfrwowv6Y"
+    },
+    {
+      "id": 36,
+      "categoriaId": 6,
+      "titulo": "Renato Albani - Visto Reprovado",
+      "url": "https://www.youtube.com/watch?v=A82vm3DVXiQ"
+    },
+    {
+      "id": 37,
+      "categoriaId": 7,
+      "titulo": "lofi hip hop - brazil songs playlist",
+      "url": "https://www.youtube.com/watch?v=ZhstyJSNKME&"
+    },
+    {
+      "id": 38,
+      "categoriaId": 7,
+      "titulo": "VOL 2 | lofi hip hop - brazil songs playlist",
+      "url": "https://www.youtube.com/watch?v=NBHJSuau8PQ&"
+    },
+    {
+      "titulo": "Vídeo",
+      "url": "https://www.youtube.com/watch?v=GXK20FJaYzM",
+      "categoriaId": 1,
+      "id": 39
+    },
+    {
+      "titulo": "ＥＬＡ　ＭＯＲＡ　ＮＯ　ＭＥＵ　ＰＥＩＴＯ",
+      "url": "https://www.youtube.com/watch?v=GMYMhrS00fY",
+      "categoriaId": 7,
+      "id": 40
+    },
+    {
+      "titulo": "Vídeo",
+      "url": "https://www.youtube.com/watch?v=GXK20FJaYzM",
+      "categoriaId": 1,
+      "id": 41
     }
   ]
 }

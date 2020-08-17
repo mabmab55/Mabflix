@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-const Button = styled.a`
+const Button = styled.button`
 color: var(--white);
 box-sizing: border-box;
 cursor: pointer;
@@ -14,6 +14,7 @@ text-decoration: none;
 display: inline-block;
 transition: opacity .3s;
 background-color: navy;
+border-color: navy;
 
 &:hover,
 &:focus {
